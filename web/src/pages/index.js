@@ -106,7 +106,7 @@ const IndexPage = (props) => {
   return (
     <Layout>
       <SEO
-        title={site.title}
+        title="Recipt"
         description={site.description}
         keywords={site.keywords}
       />

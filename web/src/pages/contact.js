@@ -10,6 +10,7 @@ import headerimg from '../images/contactusheader.png'
 
 const NotFoundPage = () => (
   <Layout >
+    <SEO title="Contact Us" />
 
     <div className={styles.layout}>
       <div className={styles.imgcontainer}>

@@ -13,6 +13,7 @@ const thankYouPage = props => {
 
     return (
       <Container>
+        <SEO title="Thank You"/>
       <Header
     />
         <div className={styles1.thankyou}>
